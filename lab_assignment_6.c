@@ -1,6 +1,7 @@
 // Vincent Phillips
 
 #include <stdio.h>
+#include <stdlib.h>
 
 int search(int numbers[], int low, int high, int value) {
   
